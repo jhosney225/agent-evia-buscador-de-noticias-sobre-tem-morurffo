@@ -1,0 +1,6 @@
+{
+  "name": "agent-evia-buscador-de-noticias-sobre-tem-morurffo",
+  "version": "1.0.0",
+  "description": "Proyecto de Evia [Gen20]: buscador de noticias sobre temas de interes",
+  "main": "index.js"
+}
